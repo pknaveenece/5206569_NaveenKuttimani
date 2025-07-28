@@ -1,4 +1,4 @@
-# 5206569_Naveen-Kuttimani
+# 5206569_NaveenKuttimani
 ## 📄 Certificates
 
 My Agile Certificate  
