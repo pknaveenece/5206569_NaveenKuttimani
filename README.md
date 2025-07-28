@@ -1,8 +1,4 @@
 # 5206569_Naveen-Kuttimani
-## 📄 Project Documents
-
-
-
 ## 📁 Folders
-- [Agile folder](./Agile/)
-- [Git folder](./Git/)
+- [Agile folder](./Agile/Agile_course.png)
+- [Git folder](./Git/Git.pdf)
