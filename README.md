@@ -2,9 +2,7 @@
 ## 📄 Certificates
 
 🌀 Agile Course Completion
-[View Agile Certificate]
-(./Agile/Agile_course.png)
+[View Agile Certificate](./Agile/Agile_course.png)
 
 🔧 Git Proficiency Certification
-[View Git Certificate]
-(./Git/Git.pdf)
+[View Git Certificate](./Git/Git.pdf)
