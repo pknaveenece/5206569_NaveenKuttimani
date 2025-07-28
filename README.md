@@ -4,5 +4,5 @@
 🌀 Agile Course Completion
 [View Agile Certificate](./Agile/Agile_course.png)
 
-🔧 Git Proficiency Certification
+🔧 Git Certification
 [View Git Certificate](./Git/Git.pdf)
