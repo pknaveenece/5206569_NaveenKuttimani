@@ -4,8 +4,8 @@
 
 
 ## 🌀 Agile
-- ![Agile Course](./Agile_course.png)
+- ![Agile Course](./Agile/Agile_course.png)
 
 ## 🔧 Git
-- [Git PDF](./Git.pdf)
+- [Git PDF](.Git/Git.pdf)
 
