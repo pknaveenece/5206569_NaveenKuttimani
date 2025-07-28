@@ -3,9 +3,6 @@
 
 
 
-## 🌀 Agile
-- ![Agile Course](./Agile/Agile_course.png)
-
-## 🔧 Git
-- [Git PDF](.Git/Git.pdf)
-
+## 📁 Folders
+- [Agile folder](./Agile/)
+- [Git folder](./Git/)
