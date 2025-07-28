@@ -1,4 +1,4 @@
 # 5206569_Naveen-Kuttimani
-## 📁 Folders
-- [Agile folder](./Agile/Agile_course.png)
-- [Git folder](./Git/Git.pdf)
+## 📁 My Certificate
+- [My Agile Certificate](./Agile/Agile_course.png)
+- [My Git Certificate](./Git/Git.pdf)
