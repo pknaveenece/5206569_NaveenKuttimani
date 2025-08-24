@@ -6,3 +6,7 @@
 
 🔧 Git Certification
 [View Git Certificate](./Git/Git.pdf)
+
+C Certification
+[View C Certificate](./SoloLearn/sololearn.pdf)
+
